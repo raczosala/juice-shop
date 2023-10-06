@@ -3,6 +3,5 @@ rulesets:
 - javascript-code-style
 - jsx-react
 - javascript-inclusive
-- node-security
 - typescript-best-practices
 - typescript-code-style
