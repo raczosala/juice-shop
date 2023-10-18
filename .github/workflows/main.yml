@@ -13,7 +13,7 @@ jobs:
       with:
         dd_api_key: ${{ secrets.DD_API_KEY }}
         dd_app_key: ${{ secrets.DD_APP_KEY }}
-        dd_service: olek-foo
+        dd_service: ci-sa-pr-review-commenter
         dd_site: datad0g.com
         dd_env: ci
         cpu_count: 2
